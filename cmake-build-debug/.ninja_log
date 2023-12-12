@@ -1,0 +1,5 @@
+# ninja log v5
+0	19	1701802192151125173	CMakeFiles/maxqueue.dir/estudiante/src/maxqueue.cpp.o	dc7943e7e44d09ae
+19	24	1701802192155125290	libmaxqueue.a	36dbc9ac36db50b4
+1	185	1701802192319130068	CMakeFiles/cola_max.dir/estudiante/src/cola_max.cpp.o	204ec0423e54e2ef
+186	222	1701802192355131116	cola_max	bc003ebdace43711
